@@ -1,5 +1,7 @@
 # AIE
 
+![ss](https://raw.githubusercontent.com/bravomatmazel/afterinstallelementary/master/ss.png)
+
 Elementary OS kurulumundan sonra yapılması gerekenler konusunda yardımcı olan küçük bir script.
 Script çalıştırıldığında bir arayüz açılır, bu arayüz üzerinde çeşitli kurulum eylemlerini içeren işaretleme kutuları bulunur.
 İstenilen eylem yada eylemler seçilerek betik yürütülür.Seçilen işlem yada işlemler bittiğinde bilgisayarı yeniden başlatmak isteyip istemediğininizi sorar.Eğer hiçbir işlem yapmadıysanız yada sadece uygulama kurulumları gerçekleştirdiyseniz yeniden başlatmanıza gerek yoktur.
