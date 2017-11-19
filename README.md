@@ -9,8 +9,15 @@ Script çalıştırıldığında bir arayüz açılır, bu arayüz üzerinde çe
 1) Yukarıda yer alan "Clone or Download" butonuna tıklayıp "Download ZIP" seçeneğine tıklayın.
 2) ZIP dosyası bilgisayarınıza indikten sonra dosyaları istediğiniz yere çıkarın.
 3) Dosyaların çıkarılmış halini barındıran dosyanın içinde bir terminal açın.
-4) Şu kodu çalıştırın: chmod +x aie.sh
-5) Sonrasında şu kodu çalıştırarak gerekli işlemleri yapın: ./aie.sh
+4) Şu komutu çalıştırın:
+```bash
+chmod +x aie.sh
+```
+
+5) Sonrasında şu kodu çalıştırarak gerekli işlemleri yapın:
+```bash
+./aie.sh
+```
 
 # Tek bir komutla scripti çalıştırma:
 
