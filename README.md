@@ -16,5 +16,5 @@ Script çalıştırıldığında bir arayüz açılır, bu arayüz üzerinde çe
 
 Bir terminal açın ve aşağıdaki kodu çalıştırın:
 ```bash
-wget -O /tmp/aie.sh https://raw.githubusercontent.com/bravomatmazel/afterinstallelementary/master/aie.sh && chmod +x /tmp/aie.sh && /tmp/aie.sh
+wget -O --no-check-certificate /tmp/aie.sh https://raw.githubusercontent.com/bravomatmazel/afterinstallelementary/master/aie.sh && chmod +x /tmp/aie.sh && /tmp/aie.sh
 ```
