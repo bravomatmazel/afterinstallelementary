@@ -375,7 +375,7 @@ then
 	sudo apt-get -y autoclean
 fi
 
-cevap=$(zenity --question --text "İşlemler tamamlandı.Bilgisayar yeniden başlatılsın mı?" ; echo $?)
+cevap=$(zenity --question --text "İşlemler tamamlandı.Bilgisayar yeniden başlatılsın mı? Hiçbir işlem yapmadıysanız "No" tıklayın." ; echo $?)
 if [[ $cevap == 0 ]]
 then
     sudo reboot
