@@ -14,7 +14,7 @@ Script çalıştırıldığında bir arayüz açılır, bu arayüz üzerinde çe
 chmod +x aie.sh
 ```
 
-5) Sonrasında şu kodu çalıştırarak gerekli işlemleri yapın:
+5) Sonrasında şu komutu çalıştırarak gerekli işlemleri yapın:
 ```bash
 ./aie.sh
 ```
